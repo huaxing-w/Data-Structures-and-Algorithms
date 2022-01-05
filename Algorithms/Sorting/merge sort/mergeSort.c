@@ -3,6 +3,7 @@
 // =================== Libraries ==================
 #include <stdio.h> // Include file for standart input/output
 #include <stdlib.h>
+
 #include <time.h> // Time functions
 
 #define EXPERIMENT 1 // use this for the experimentation in this lab
