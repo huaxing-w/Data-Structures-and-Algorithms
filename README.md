@@ -10,6 +10,8 @@
 * Sort
     * [heap sort](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Algorithms/Sorting/heapSort "heap sort")
     * [merge sort](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Algorithms/Sorting/merge%20sort "merge sort")
+* Catalan
+    * [catalan number](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Algorithms/find%20Catalan%20Number "catalan number")
 
 
     
