@@ -38,7 +38,7 @@ class SegmentTree:
         left, right = 2 * tree_index + 1, 2 * tree_index + 2 # tree_index的左右子树索引
         self._build(left, l, mid)
         self._build(right, mid+1, r)
-        self.tree[tree_index] = self._merge([self.tree[left], self.tree[right]])
+        self.tree[tree_index] = self._merge(self.tree[left], self.tree[right])
 
     def _query(self, tree_index, l, r, ql, qr):
         '''
@@ -60,8 +60,8 @@ class SegmentTree:
             return self._query(right, mid+1, r, ql, qr)
 
         # 查询区间一部分在左子树一部分在右子树
-        return self._merge([self._query(left, l, mid, ql, mid), 
-                          self._query(right, mid+1, r, mid+1, qr)])
+        return self._merge(self._query(left, l, mid, ql, mid), 
+                          self._query(right, mid+1, r, mid+1, qr))
 
     def _update(self, tree_index, l, r, index):
         '''
@@ -81,4 +81,4 @@ class SegmentTree:
             # 要更新的区间在左子树index<=mid
             self._update(left, l, mid, index)
         # 里面的小区间变化了，包裹的大区间也要更新
-        self.tree[tree_index] = self._merge([self.tree[left], self.tree[right]])
+        self.tree[tree_index] = self._merge(self.tree[left], self.tree[right])
