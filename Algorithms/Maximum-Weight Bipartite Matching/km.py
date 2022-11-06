@@ -1,3 +1,4 @@
+INF = int(1e18)
 def KM(costMatrix: List[List[int]]) -> Tuple[int, Tuple[List[int], List[int]]]:
     """KM算法求带权二分图的最大权匹配
 
