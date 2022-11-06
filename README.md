@@ -15,5 +15,7 @@
 * Tarjan
     * [tarjan](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Algorithms/tarjan "tarjan")
 
+* Maximum-Weight Bipartite Matching
+    * [Maximum-Weight Bipartite Matching](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Algorithms/tarjan "tarjan")
 
     
