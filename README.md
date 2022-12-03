@@ -2,6 +2,7 @@
 <img style="float: right;" src="https://img.shields.io/github/commit-activity/m/huaxing-w/Data-Structures-and-Algorithms">
 
 # Data Structures
+* [BIT](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/BIT "Segment Tree")
 * [Segment Tree](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/segment%20tree "Segment Tree")
 * [Trie](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/Trie "Trie")
 
