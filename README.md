@@ -5,7 +5,7 @@
 * [BIT](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/BIT "Segment Tree")
 * [Segment Tree](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/segment%20tree "Segment Tree")
 * [Trie](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/Trie "Trie")
-* [SortedList](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/Trie "SortedList")
+* [SortedList](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/sortedList "SortedList")
 
 
 # Algorithms
