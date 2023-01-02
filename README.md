@@ -6,7 +6,7 @@
 * [Segment Tree](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/segment%20tree "Segment Tree")
 * [Trie](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/Trie "Trie")
 * [SortedList](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/sortedList "SortedList")
-* [Union Find](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/sortedList "Union Find")
+* [Union Find](https://github.com/huaxing-w/Data-Structures-and-Algorithms/tree/main/Data%20Structure/Union-find "Union Find")
 
 
 # Algorithms
